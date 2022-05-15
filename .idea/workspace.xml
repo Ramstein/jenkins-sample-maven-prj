@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435c0994-6aa2-4f6d-959a-e42b09f482d6" name="Changes" comment="update test case">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-    </list>
+    <list default="true" id="435c0994-6aa2-4f6d-959a-e42b09f482d6" name="Changes" comment="Adding Jenkinsfile changes for the maven v" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652604176215</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding Jenkinsfile">
+      <created>1652632678818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652632678818</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Jenkinsfile changes for the maven v">
+      <created>1652632822891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652632822891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +100,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="update test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="update test case" />
+    <MESSAGE value="Adding Jenkinsfile" />
+    <MESSAGE value="Adding Jenkinsfile changes for the maven v" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Jenkinsfile changes for the maven v" />
   </component>
 </project>
